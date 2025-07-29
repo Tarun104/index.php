@@ -1,2 +1,2 @@
-git init
-git remote add origin https://github.com/YOUR_USERNAME/php-dev-setup.git
+echo "<?php echo 'Hello, PHP!'; ?>" > index.php
+echo "# PHP Dev Setup" > README.md
